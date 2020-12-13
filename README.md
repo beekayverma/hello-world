@@ -7,4 +7,4 @@ Thanks!! 😊
 I have completed one more chapter for my Cloud Engineer boot camp course. It was about RPM for CentOs/SUSE. I enjoyed it and tomorrow I will learn more.
 Never Stop learning!
 
-q
+Today, December 14th 2020, I have completed 7 & 8 chapters of LFS 201 module of Cloud Engineer bootcamp course.
